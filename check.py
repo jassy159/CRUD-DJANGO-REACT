@@ -1,1 +1,1 @@
-print("HELLO CRUD")
+print("HELLO CRU")
